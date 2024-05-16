@@ -1,0 +1,1 @@
+SELECT * FROM tienda_ropa_online.clientes;
